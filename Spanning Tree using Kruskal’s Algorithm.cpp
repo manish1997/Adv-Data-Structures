@@ -1,6 +1,6 @@
 // https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/
 // ^ Very good tutorial for Disjoint Sets Data Structure
-// https://www.ics.uci.edu/~eppstein/161/960206.html 
+// https://www.ics.uci.edu/~eppstein/161/960206.html
 // Give it a fast read for proof of Kruskal's Algorithm
 #include <bits/stdc++.h>
 #define mod 1000000007
